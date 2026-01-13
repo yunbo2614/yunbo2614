@@ -71,15 +71,6 @@ I work across **Java / Go / Python**, cloud platforms (**AWS + GCP**), and data 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yunbo2614&show_icons=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunbo2614&layout=compact" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 - 📩 Email: **yunbo2614@gmail.com**
