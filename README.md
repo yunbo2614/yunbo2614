@@ -36,7 +36,7 @@ I work across **Java / Go / Python**, cloud platforms (**AWS + GCP**), and data 
 ## 🧰 Tech Stack
 
 **Languages**  
-`Java` `Go` `Python` `JavaScript` `Kotlin` `SQL`
+`Java` `Go` `Python` `JavaScript` `C` `C++` `Kotlin` `SQL`
 
 **Frameworks / Tools**  
 `Spring Boot` `React` `Node.js/Express` `Docker` `Redis` `Elasticsearch` `JWT` `REST APIs`
