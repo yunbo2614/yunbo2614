@@ -49,7 +49,7 @@ I work across **Java / Go / Python**, cloud platforms (**AWS + GCP**), and data 
 
 ## 🌟 Featured Projects
 
-### 🤖 Agent AI — RAG-Powered Document Intelligence
+### 🤖 Insight Bot — RAG-Powered Document Intelligence
 - Full-stack AI assistant with PDF ingestion + RAG pipeline
 - Semantic chunking + vector search (Pinecone) for sub-second retrieval
 - Tool orchestration via MCP + optimized routing to reduce latency
@@ -59,7 +59,7 @@ I work across **Java / Go / Python**, cloud platforms (**AWS + GCP**), and data 
 - Multipart image upload (1–5 images) with clean UX + backend validation
 - Go REST APIs + PostgreSQL schema collaboration, deployed on GCE
 
-### 🔎 Social AI — AI Social Network + Search
+### 🔎 Artifex Social — AI Social Network + Search
 - React + Go microservices on Google App Engine
 - Elasticsearch for real-time search across large post sets + advanced filtering
 - Redis caching strategy to cut DB load and speed up feeds
