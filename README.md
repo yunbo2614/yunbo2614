@@ -29,7 +29,6 @@ I work across **Java / Go / Python**, cloud platforms (**AWS + GCP**), and data 
 
 - 🧠 Interests: distributed systems, performance tuning, search/retrieval (RAG), cloud-native microservices
 - ✅ Work eligibility: **US Permanent Resident**
-- 🎓 Currently: **M.S. Software Engineering @ San Jose State University (Jan 2026 – May 2028)**
 
 ---
 
