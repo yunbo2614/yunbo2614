@@ -17,7 +17,7 @@ Tip: Create a repo named exactly your username and add this as README.md
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yunbo2614&style=flat" />
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Opportunities-success" />
-  <img alt="Location" src="https://img.shields.io/badge/📍-San%20Jose%2C%20CA-informational" />
+  <img alt="Location" src="https://img.shields.io/badge/📍-Los%20Angeles%2C%20CA-informational" />
 </p>
 
 ---
